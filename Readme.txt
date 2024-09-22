@@ -1,5 +1,5 @@
 Author: Caguamanta
-Version: 1.0
+Version: 1.0.1
 caguamanta.com
 
 It is important that you always save before exiting with the '0' key since the program does not have auto-save.
